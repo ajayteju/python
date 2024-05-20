@@ -1,1 +1,1 @@
-print("My name is Ajay!! v9")
+prin("My name is Ajay!! v9")
